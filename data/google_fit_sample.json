@@ -1,0 +1,16 @@
+{
+    "steps": [
+      { "date": "2025-05-15", "count": 7350 },
+      { "date": "2025-05-14", "count": 10200 }
+    ],
+    "sleep": [
+      { "date": "2025-05-15", "duration_minutes": 435, "quality": "good" }
+    ],
+    "heart_rate": [
+      { "date": "2025-05-15", "resting_hr": 62, "max_hr": 125 }
+    ],
+    "calories": [
+      { "date": "2025-05-15", "burned": 2150 }
+    ]
+  }
+  
